@@ -9,5 +9,6 @@
 - https://t.me/AhucxBot
 - https://t.me/sgk2023_03_30bot
 - https://t.me/Ztgh_bot
+- https://t.me/Carllnet_bot
 
 from: https://twitter.com/biantaishark/status/1738837053029404888
