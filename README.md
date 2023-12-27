@@ -1,6 +1,10 @@
 # social-bot
 社工库
 
+## handbook
+- https://telegra.ph/AISGK-05-17
+
+
 ## bot
 - https://t.me/aishegongkubot
 - https://t.me/sgkvipbot
