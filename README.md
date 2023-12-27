@@ -16,6 +16,7 @@
 - https://t.me/Ztgh_bot
 - https://t.me/Carllnet_bot
 - https://t.me/JinpaiSGK_bot
+- https://t.me/SGKmainNEWbot
 
 ## group
 - https://t.me/mianfeisgk66888
