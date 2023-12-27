@@ -23,3 +23,6 @@
 - https://t.me/heikeciadgk
 
 from: https://twitter.com/biantaishark/status/1738837053029404888
+
+## sop
+- https://www.v2ex.com/t/654792#r_8718468
