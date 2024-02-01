@@ -2,7 +2,7 @@
 社工库
 
 ## handbook
-- https://telegra.ph/AISGK-05-17
+- [一分钟学会社工库机器人](https://telegra.ph/AISGK-05-17)
 
 
 ## bot
